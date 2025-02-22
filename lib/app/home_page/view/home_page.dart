@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_structure_demo/app/detail_page/view/detail_page.dart';
+// import 'package:getx_structure_demo/app/detail_page/view/detail_page.dart';
 import 'package:getx_structure_demo/app/home_page/controller/home_controller.dart';
 import 'package:getx_structure_demo/app/home_page/model/product_model.dart';
 import 'package:getx_structure_demo/routes/app_routes.dart';
